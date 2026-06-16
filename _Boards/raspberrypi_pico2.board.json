@@ -17,11 +17,11 @@
   "Info": {
     "CanInstallFirmware": true,
     "CanResetBoard": true,
-    "FirmwareBaseName": "mobiflight_raspberrypico",
+    "FirmwareBaseName": "mobiflight_raspberrypico2",
     "FirmwareExtension": "uf2",
-    "FriendlyName": "Raspberry Pico",
+    "FriendlyName": "Raspberry Pico 2",
     "LatestFirmwareVersion": "0.0.1",
-    "MobiFlightType": "MobiFlight RaspiPico",
+    "MobiFlightType": "MobiFlight RaspiPico 2",
     "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2"
   },
   "ModuleLimits": {
@@ -138,43 +138,43 @@
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 16
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 17
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 18
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 19
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 20
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 21
     },
     {
       "isAnalog": false,
       "isI2C": false,
-      "isPWM": false,
+      "isPWM": true,
       "Pin": 22
     },
     {
